@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3_Cocktail", "H3_Cocktail\H3_Cocktail.csproj", "{F4B01675-CBCF-4F7A-BB6F-84BFD9CE12EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B01675-CBCF-4F7A-BB6F-84BFD9CE12EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B01675-CBCF-4F7A-BB6F-84BFD9CE12EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B01675-CBCF-4F7A-BB6F-84BFD9CE12EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B01675-CBCF-4F7A-BB6F-84BFD9CE12EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9F9D5A-6EF0-46CA-8E36-180B658BAE5F}
+	EndGlobalSection
+EndGlobal
